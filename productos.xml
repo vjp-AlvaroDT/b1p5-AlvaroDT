@@ -1,0 +1,27 @@
+<Productos>
+    <CocaCola>
+        <Cantidad>100</Cantidad>
+        <Precio>2</Precio>
+        <Ganancia>200</Ganancia>
+        </CocaCola>
+    <Pepsi>
+        <Cantidad>50</Cantidad>
+        <Precio>1,5</Precio>
+        <Ganancia>75</Ganancia>
+    </Pepsi>
+    <Fanta>
+        <Cantidad>26</Cantidad>
+        <Precio>2</Precio>
+        <Ganancia>52</Ganancia>
+    </Fanta>
+    <Mirinda>
+        <Cantidad>56</Cantidad>
+        <Precio>3</Precio>
+        <Ganancia>168</Ganancia>
+    </Mirinda>
+    <Sprite>
+        <Cantidad>203</Cantidad>
+        <Precio>2</Precio>
+        <Ganancia>406</Ganancia>
+    </Sprite>
+</Productos>
