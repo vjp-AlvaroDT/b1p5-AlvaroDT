@@ -1,0 +1,20 @@
+<catalogo>
+    <cd>
+        <titulo></titulo>
+        <artista>Mike Towers</artista>
+        <precio>30</precio>
+        <año>2021</año>
+    </cd>
+    <cd>
+        <titulo></titulo>
+        <artista>Rosalia</artista>
+        <precio>20</precio>
+        <año>2021</año>
+    </cd>
+    <cd>
+        <titulo></titulo>
+        <artista>Ozuna</artista>
+        <precio>15</precio>
+        <año>2021</año>
+    </cd>
+</catalogo>
