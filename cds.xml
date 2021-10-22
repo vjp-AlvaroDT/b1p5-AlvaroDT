@@ -1,18 +1,18 @@
 <catalogo>
     <cd>
-        <titulo></titulo>
+        <titulo>1</titulo>
         <artista>Mike Towers</artista>
         <precio>30</precio>
         <año>2021</año>
     </cd>
     <cd>
-        <titulo></titulo>
+        <titulo>2</titulo>
         <artista>Rosalia</artista>
         <precio>20</precio>
         <año>2021</año>
     </cd>
     <cd>
-        <titulo></titulo>
+        <titulo>3</titulo>
         <artista>Ozuna</artista>
         <precio>15</precio>
         <año>2021</año>
